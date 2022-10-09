@@ -34,19 +34,19 @@ basic.forever(function () {
         R = 0
     }
     if (G <= 3) {
-        DFRobotMaqueenPlusV2.setIndexColor(G, NeoPixelColors.Red)
+        DFRobotMaqueenPlusV2.setIndexColor(G, NeoPixelColors.Green)
         G += 1
     } else {
         G = 0
     }
     if (B <= 3) {
-        DFRobotMaqueenPlusV2.setIndexColor(B, NeoPixelColors.Red)
+        DFRobotMaqueenPlusV2.setIndexColor(B, NeoPixelColors.Blue)
         B += 1
     } else {
         B = 0
     }
     if (P <= 3) {
-        DFRobotMaqueenPlusV2.setIndexColor(P, NeoPixelColors.Red)
+        DFRobotMaqueenPlusV2.setIndexColor(P, NeoPixelColors.Purple)
         P += 1
     } else {
         P = 0
