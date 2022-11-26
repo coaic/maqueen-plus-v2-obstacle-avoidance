@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "dfrobot_maqueenplus_v20-tree-v125": "github:dfrobot/pxt-dfrobot_maqueenplus_v20/tree/v1.2.5#master"
+        "DFRobot_MaqueenPlus_V2.0": "github:dfrobot/pxt-dfrobot_maqueenplus_v20#v1.0.0"
     },
     "files": [
         "main.blocks",
